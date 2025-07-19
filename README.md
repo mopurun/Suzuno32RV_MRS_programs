@@ -1,1 +1,4 @@
 # Suzuno32RV_MRS_programs
+
+
+Suzuno32RVをMounRiver Studioでいろいろな部品を接続して動かしてみました
