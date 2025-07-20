@@ -10,4 +10,4 @@ File→New→MownRiver Project→CH32V203C8T6→プロジェクト名入れる�
 
 ## 書き込み
 
-ビルド→objフォルダ内にhexファイルがあるので右クリック→Open Containing Folder→エクスプローラーのhexファイルをWCHISPStudioのObject File1に突っ込む
+ビルド→objフォルダ内にhexファイルがあるので右クリック→Open Containing Folder→エクスプローラーのhexファイルをWCHISPStudioのObject File1に突っ込む→あとは通常の書き込み方法
